@@ -1,0 +1,33 @@
+{
+  "name": "versionist",
+  "url": "git@github.com:resin-io/versionist.git",
+  "reference": "8d26949be685c9427bc6c48893572a2d5b8fe974",
+  "result": {
+    "public": true,
+    "license": "Apache-2.0",
+    "contributing": null,
+    "architecture": null,
+    "integrations": [
+      "Versionist",
+      "appveyor",
+      "travis-ci",
+      "AutoMerges",
+      "Reviewers"
+    ],
+    "dependencies": [
+      "async",
+      "chalk",
+      "debug",
+      "handlebars",
+      "handlebars-helpers",
+      "js-yaml",
+      "lodash",
+      "markdown",
+      "replace-in-file",
+      "semver",
+      "touch",
+      "update-json",
+      "yargs"
+    ]
+  }
+}
