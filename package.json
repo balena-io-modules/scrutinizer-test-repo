@@ -7,7 +7,7 @@
   "homepage": "https://github.com/resin-io-modules/scrutinizer",
   "repository": {
     "type": "git",
-    "url": "git@github.com:resin-io-modules/scrutinizer.git"
+    "url": "git@github.com:balena-io-modules/scrutinizer-test-repo.git"
   },
   "scripts": {
     "test": "npm run lint && nyc --reporter=lcov ava",
