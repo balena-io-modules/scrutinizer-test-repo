@@ -5,6 +5,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## v1.0.0 - 2019-02-18
 
+## 1.2.0 - 2019-09-17
+
+* Add more blog & docs [Dimitrios Lytras]
+* Trigger new version [Dimitrios Lytras]
+
 ## 1.1.0 - 2019-02-18
 
 * Cases: Enable contributing plugin [Dimitrios Lytras]

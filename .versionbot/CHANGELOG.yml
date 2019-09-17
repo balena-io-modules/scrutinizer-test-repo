@@ -1,1 +1,17 @@
-[]
+- commits:
+    - subject: Add more blog & docs
+      hash: 09d434d045822bda7db7ceeabf821c5eae7db4d0
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Dimitrios Lytras
+    - subject: Trigger new version
+      hash: eee589bb0901c504ed6d44407d81245d0510f9ad
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Dimitrios Lytras
+  version: 1.2.0
+  date: 2019-09-17T09:41:52.933Z
