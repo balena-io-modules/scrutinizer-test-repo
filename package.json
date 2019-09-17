@@ -1,6 +1,6 @@
 {
   "name": "scrutinizer-test-repo",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "private": true,
   "description": "Extract a git repository's metadata relying on open source conventions",
   "main": "lib/index.js",
