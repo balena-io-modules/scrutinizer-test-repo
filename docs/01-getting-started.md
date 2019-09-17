@@ -45,3 +45,5 @@ NETLIFY_AUTH_TOKEN=<token> landr deploy
 ```
 
 Passing your Netlify authentication token as an environment variable.
+
+Version 2
