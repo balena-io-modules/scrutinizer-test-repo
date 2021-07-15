@@ -1,4 +1,12 @@
 - commits:
+    - subject: 'patch: Delete Codeowners'
+      hash: 7631fbb047f0a1cbc5b5acc9a543fba0352b3c73
+      body: ''
+      footer: {}
+      author: Vipul Gupta
+  version: 1.5.1
+  date: 2021-07-01T10:55:55.467Z
+- commits:
     - subject: Populate more docs
       hash: 777ef844be3cb81a4e52a784e29740c589547f30
       body: ''

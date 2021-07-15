@@ -5,6 +5,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## v1.0.0 - 2019-02-18
 
+# v1.5.1
+## (2021-07-01)
+
+* patch: Delete Codeowners [Vipul Gupta]
+
 ## 1.5.0 - 2019-09-17
 
 * Populate more docs [Dimitrios Lytras]
